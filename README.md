@@ -2,6 +2,12 @@
 
 Projeto de assistente pessoal de Samuel Felipe Assis Nunes, reunindo o aplicativo mobile e o backend Python com interface web.
 
+## Interface web
+
+![Interface web do Jarvis](docs/images/jarvis-web.jpg)
+
+Captura do estado atual da interface web, ainda em desenvolvimento, sem conexão com o backend, o MySQL ou o Ollama. Há inconsistências entre o HTML, os estilos e o JavaScript; a imagem não representa uma conversa funcional.
+
 ## Estrutura
 
 | Pasta | Conteúdo |
